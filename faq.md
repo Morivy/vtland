@@ -27,9 +27,9 @@ The game’s world will be infinite, so you’ll never run out of space, and it 
 
 It will have everything you should expect from such games, including, but not limited to:
 
-• Complex signaling and scheduling
+• Complex signaling and orders
 
-• A variety of locomotives, each with different characteristics and visuals
+• A variety of unique locomotives
 
 • Different railcars for different cargo
 
