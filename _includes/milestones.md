@@ -14,7 +14,7 @@ Community made rolling stock already starting to appear in the game
 
 *11 Aug*
 
-The very first iteration of [modding SDK](/sdk) has landed (yes, months before release)
+The first version of [modding SDK](/sdk) has released (yes, months before alpha)
 
 *1 Aug*
 
